@@ -97,4 +97,5 @@ var num_check = (input1, input2) => {
 
 /* 5. Add JS code to style your page. */
 
-document.style.backgroundColor = "#2E8BC0";
+document.body.style.backgroundColor = "#2E8BC0";
+document.body.style.font = "italic bold 20px arial,serif";
